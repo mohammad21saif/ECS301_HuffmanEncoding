@@ -11,4 +11,4 @@ git clone https://github.com/mohammad21saif/ECS301_HuffmanEncoding.git
 cd ECS301_HuffmanEncoding
 source .venv/bin/activate
 python3 text_compress.py
-bash```
+```
