@@ -62,8 +62,8 @@ def huffman_decoding(encoded_text, codebook):
 
 
 if __name__ == "__main__":
-    input_text = "The quick brown fox jumps over the lazy dog"
-    # input_text = input("Enter the text to be encoded: ")
+    # input_text = "The quick brown fox jumps over the lazy dog"
+    input_text = input("Enter the text to be encoded: ")
     encoded_text, codebook = huffman_encoding(input_text)
     print("Encoded text:", encoded_text)
     print("Huffman Codes:", codebook)
