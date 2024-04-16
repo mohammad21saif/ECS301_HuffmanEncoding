@@ -4,8 +4,6 @@ This repository contains the Python implementation for the Huffman encoding algo
 
 ## Installation
 
-First, clone the repository to your local machine:
-
 ```bash
 git clone https://github.com/mohammad21saif/ECS301_HuffmanEncoding.git
 cd ECS301_HuffmanEncoding
